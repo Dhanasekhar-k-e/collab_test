@@ -1,6 +1,2 @@
 HELLO MASAI
-<<<<<<< HEAD
 WEEK 1 User 1
-=======
-wEEK 1 User 2
->>>>>>> 7af355019fb3761dcee31a70dc9ba1ae0f319c33
